@@ -89,7 +89,7 @@ use python main.py to run all the models.
 You can also specify the model which you want the results for by writing python main.py model_type (example: sagn or sun or esan or gnn).
 ```
 
-## Citations 
+## References 
 
 ```bibtex
 @inproceedings{dhali2024power,
