@@ -1,7 +1,7 @@
 # How-Robust-Are-Higher-Order-Graph-Neural-Networks-to-Backdoor-Attacks-
 
 ---
-This repository contains the implementation and analysis of existing backdoor attacks on Graph Neural Nerworks both traditional (GCN, GAT and GraphSage) and Higher Order Graph Neural Network (ESAn, SUN and SAGN).
+This repository contains the implementation and analysis of existing backdoor attacks on Graph Neural Nerworks both traditional (GCN, GAT and GraphSage) and Higher Order Graph Neural Network (ESAN, SUN and SAGN).
 
 **Results on the Cora dataset. Each cell shows ASR_mean±ASR_std / Clean_mean±Clean_std (%). HOGNN values in bold indicate better (lower) ASR or (higher) Accuracy than all Traditional GNNs.**
 
