@@ -101,6 +101,23 @@ If you're using an IDE such as VS Code, you can use its integrated terminal to r
 use python main.py to run all the models.
 You can also specify the model which you want the results for by writing python main.py model_type (example: sagn or sun or esan or gnn).
 ```
+## ⭐ Give a Star!
+
+If you found this project useful or interesting, please consider giving it a star on GitHub!
+
+## Use this bibtex to cite
+
+```bibtex    
+@article{Dhali2025How,
+	author = {Dhali, Abhijeet and Dividino, Renata},
+	journal = {Proceedings of the Canadian Conference on Artificial Intelligence},
+	year = {2025},
+	month = {may 19},
+	note = {https://caiac.pubpub.org/pub/nvckf4bi},
+	publisher = {Canadian Artificial Intelligence Association (CAIAC)},
+	title = {How {Robust} {Are} {Higher}-{Order} {Graph} {Neural} {Networks} to {Backdoor} {Attacks}?},
+}
+```
 
 ## References 
 
